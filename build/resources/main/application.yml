@@ -1,0 +1,6 @@
+server:
+  port: 8086
+
+jira:
+  username: piachimov
+  password: Tigruta!#2019
